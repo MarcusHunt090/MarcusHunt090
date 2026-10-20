@@ -8,6 +8,7 @@ I'm a Coronado High School student in El Paso, Texas. I build software to make i
 
 | Project | What it explores | Stack |
 | --- | --- | --- |
+| [BorderPulse](https://github.com/MarcusHunt090/borderpulse) | An El Paso–Juárez economic-stress index with public data, backtesting, sensitivity analysis, and a reproducible dashboard | Python, NumPy, SciPy, scikit-learn |
 | [FinSentiment](https://github.com/MarcusHunt090/nlp-finance) | Financial text and article sentiment, model comparisons, sentence-level analysis, and explainability | Python, Flask, scikit-learn, NLTK, FinBERT |
 | [Financial Headline Risk Analyzer](https://github.com/MarcusHunt090/financial-risk-analyzer-89) | Sentiment and topic classification with an interpretable, rule-based headline risk score | Python, FastAPI, scikit-learn, TypeScript, Next.js |
 
