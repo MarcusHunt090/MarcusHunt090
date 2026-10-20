@@ -1,27 +1,34 @@
-# Marcus Hunt
+![Marcus Hunt — Software, AI, and Economics](assets/profile-banner.svg)
 
-### Student developer exploring AI, economics, and technology for community impact
+I'm a student developer in El Paso, Texas, working across **applied AI, economic research, and community technology**. I build tools that make complex information more useful and help students become technology creators.
 
-I'm a Coronado High School student in El Paso, Texas. I build software to make information easier to use, explore financial and economic questions, and help younger students become technology creators.
+**Founder, Fiesta Code & AI · 2024 Congressional App Challenge district winner**
 
-## Featured projects
+[LinkedIn](https://www.linkedin.com/in/marcus-h-4a3388375/) · [Explore my repositories](https://github.com/MarcusHunt090?tab=repositories)
 
-| Project | What it explores | Stack |
-| --- | --- | --- |
-| [BorderPulse](https://github.com/MarcusHunt090/borderpulse) | An El Paso–Juárez economic-stress index with public data, backtesting, sensitivity analysis, and a reproducible dashboard | Python, NumPy, SciPy, scikit-learn |
-| [FinSentiment](https://github.com/MarcusHunt090/nlp-finance) | Financial text and article sentiment, model comparisons, sentence-level analysis, and explainability | Python, Flask, scikit-learn, NLTK, FinBERT |
-| [Financial Headline Risk Analyzer](https://github.com/MarcusHunt090/financial-risk-analyzer-89) | Sentiment and topic classification with an interpretable, rule-based headline risk score | Python, FastAPI, scikit-learn, TypeScript, Next.js |
+## Selected projects
 
-## Building for my community
+### [BorderPulse](https://github.com/MarcusHunt090/borderpulse)
+A reproducible economic-stress dashboard for the El Paso–Juárez Borderplex. Combines seven public indicators with backtesting, sensitivity analysis, and transparent reporting of the model's limitations.
 
-- **CareCompanion:** Co-created an iOS app for older adults and family caregivers, with medication tracking, reminders, appointment scheduling, and care coordination. It won **1st Place in the 2024 Congressional App Challenge for Texas's 16th Congressional District**. [Official project feature](https://www.congressionalappchallenge.us/24-TX16/)
-- **Fiesta Code & AI:** Founded a free, bilingual coding and AI initiative in El Paso. Reached 100+ students through six community workshops and approximately 150 volunteer hours, alongside recruiting and mentoring high school volunteers.
-- **El Pasoans Fighting Hunger:** Contributed 400+ volunteer hours and helped lead a mobile-first, bilingual website redesign with El Paso Labs, including client research, a food-assistance map, usability evaluation, and development of a bilingual AI chatbot.
+`Python` `NumPy` `SciPy` `scikit-learn` · [Technical note](https://github.com/MarcusHunt090/borderpulse/blob/main/technical_note.md)
 
-## Interests and tools
+### [FinSentiment](https://github.com/MarcusHunt090/nlp-finance)
+A financial NLP application for article and text analysis, classical-model comparisons, sentence-level sentiment, explainability, and optional FinBERT predictions.
 
-I enjoy applied machine learning, economic analysis, accessible product design, and STEM education. My work includes Python, TypeScript, React/Next.js, Flask, FastAPI, scikit-learn, and NLP. I'm also interested in time-series forecasting and early signals of macroeconomic change.
+`Python` `Flask` `scikit-learn` `NLTK` `Transformers`
 
-I founded my school's AI Leadership Club, serve as Coding Club Director of Programming, and raised $5,000 as DECA Vice President of Finance to support student competition opportunities.
+### [Financial Headline Risk Analyzer](https://github.com/MarcusHunt090/financial-risk-analyzer-89)
+A full-stack prototype combining sentiment and topic classification with an interpretable, rule-based headline risk score.
 
-[LinkedIn](https://www.linkedin.com/in/marcus-h-4a3388375/)
+`FastAPI` `Next.js` `TypeScript` `scikit-learn`
+
+## Community impact
+
+- **CareCompanion:** Co-created an accessible iOS caregiving app; **1st Place, 2024 Congressional App Challenge, Texas District 16**. [Official feature](https://www.congressionalappchallenge.us/24-TX16/)
+- **Fiesta Code & AI:** Founded a free, bilingual coding and AI initiative; reached **100+ students** through six community workshops and approximately **150 volunteer hours**.
+- **El Pasoans Fighting Hunger:** Contributed **400+ volunteer hours** and helped lead a bilingual, mobile-first website redesign with El Paso Labs, including client research, a food-assistance map, and chatbot development.
+
+## Current interests
+
+Interpretable machine learning, regional economics, accessible digital tools, and STEM education. At Coronado High School, I founded the AI Leadership Club and serve as Coding Club Director of Programming.

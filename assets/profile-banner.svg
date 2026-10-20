@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Marcus Hunt</title>
+  <desc id="desc">Software, AI, and economics. El Paso, Texas.</desc>
+  <rect x="1" y="1" width="1198" height="238" rx="16" fill="#101c2c" stroke="#2d3d52" stroke-width="2"/>
+  <path d="M816 1v238M912 1v238M1008 1v238M1104 1v238M768 61h431M768 121h431M768 181h431" stroke="#213249" stroke-width="1"/>
+  <path d="M787 188l66-59 45 28 74-85 46 43 64-65 91 48" fill="none" stroke="#65c9b4" stroke-width="3" stroke-linejoin="round" opacity=".65"/>
+  <path d="M787 205l66-36 45 19 74-51 46 29 64-43 91 28" fill="none" stroke="#425e7b" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="48" y="43" width="5" height="153" rx="2.5" fill="#7cdec6"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="76" y="67" fill="#7cdec6" font-size="14" font-weight="600" letter-spacing="3">EL PASO, TEXAS</text>
+    <text x="73" y="137" fill="#f4f7fb" font-size="62" font-weight="600" letter-spacing="-1.5">Marcus Hunt</text>
+    <text x="76" y="185" fill="#b5c3d5" font-size="25">Software · AI · Economics</text>
+  </g>
+</svg>
